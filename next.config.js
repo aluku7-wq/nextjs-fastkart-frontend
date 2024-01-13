@@ -11,7 +11,7 @@ const nextConfig = {
     },
     env: {
         // API_PROD_URL: "http://127.0.0.1:8000/api/",
-        API_PROD_URL: "https://apis.abrajdecor.com/api",
+        API_PROD_URL: "https://apis.abrajdecor.com/api/",
         PAYMENT_RETURN_URL: "http://localhost:3000",
         PAYMENT_CANCEL_URL: "http://localhost:3000/",
     },
